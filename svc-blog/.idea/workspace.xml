@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3309bea-c614-41d4-939f-d5f29b72c771" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Development\mavenRepository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1jDGQL305rHRKEXCpT3Ey8gN3C2" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blog-personalCenter/src/main/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Development\MyProject\blog\svc-blog\blog-personalCenter\src\main\resources\mapper\personal" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xu.autoGenerator" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Development\MyProject\blog\svc-blog\blog-personalCenter\src\main\resources" />
+      <recent name="D:\Development\MyProject\blog\svc-blog\blog-eureka-service\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AvatarTest.Test05">
+    <configuration name="AvatarTest.Test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog-personalCenter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xu.personal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xu.personal" />
+      <option name="MAIN_CLASS_NAME" value="com.xu.personal.AvatarTest" />
+      <option name="METHOD_NAME" value="Test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AvatarTest.Test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog-personalCenter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xu.personal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xu.personal" />
+      <option name="MAIN_CLASS_NAME" value="com.xu.personal.AvatarTest" />
+      <option name="METHOD_NAME" value="Test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AvatarTest.Test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog-personalCenter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xu.personal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xu.personal" />
+      <option name="MAIN_CLASS_NAME" value="com.xu.personal.AvatarTest" />
+      <option name="METHOD_NAME" value="Test04" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AvatarTest.Test05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog-personalCenter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xu.personal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xu.personal" />
+      <option name="MAIN_CLASS_NAME" value="com.xu.personal.AvatarTest" />
+      <option name="METHOD_NAME" value="Test05" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AvatarTest.Tets01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog-personalCenter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xu.personal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xu.personal" />
+      <option name="MAIN_CLASS_NAME" value="com.xu.personal.AvatarTest" />
+      <option name="METHOD_NAME" value="Tets01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AvatarTest.Test05" />
+        <item itemvalue="JUnit.AvatarTest.Test04" />
+        <item itemvalue="JUnit.AvatarTest.Test02" />
+        <item itemvalue="JUnit.AvatarTest.Tets01" />
+        <item itemvalue="JUnit.AvatarTest.Test03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3309bea-c614-41d4-939f-d5f29b72c771" name="Default Changelist" comment="" />
+      <created>1603331231549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603331231549</updated>
+      <workItem from="1603331236226" duration="11194000" />
+      <workItem from="1603434759935" duration="8671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="695" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603439034467">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="695" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603439034467" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1603331302058">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603331302058" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1603448002975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603448002975" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1603448002975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603448002975" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1603448002975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603448002975" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1603448002975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603448002975" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1603448002979">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603448002979" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1603448002978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603448002978" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1603448002975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603448002975" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1603448002978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603448002978" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1603331307608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603331307608" />
+    <state x="334" y="214" key="new project wizard" timestamp="1603423937308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603423937308" />
+  </component>
+</project>

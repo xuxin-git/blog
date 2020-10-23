@@ -1,0 +1,58 @@
+/* Tab多页签 */
+:global {
+    .Tab_Controller {
+        height: 40px;
+        color: #888;
+		background-color: #fff;
+		.ant-tabs{
+			clear: both;
+		}
+        .ant-tabs-bar {
+			border-bottom: 1px solid #ddd;
+        }
+        .ant-tabs.ant-tabs-card > .ant-tabs-bar .ant-tabs-tab {
+            border: none;
+            border-radius: 0;
+            margin-right: 0;
+            background: #fff;
+            line-height: 39px;
+            & + .ant-tabs-tab {
+                border-left: 1px solid #ddd;
+            }
+            &:first-of-type {
+                border-left: 1px solid #ddd;
+            }
+            &:last-of-type {
+                border-right: 1px solid #ddd;
+            }
+            .anticon-close {
+                opacity: 0;
+                position: absolute;
+                top: 3px;
+                right: 3px;
+                transition: all 0.5s;
+            }
+            &:hover .anticon-close {
+                opacity: 1;
+            }
+            .anticon-close:hover {
+                color: #f5222d;
+            }
+            &.ant-tabs-tab-active {
+                background: #f0f2f5;
+            }
+        }
+        .ant-tabs-tab-prev.ant-tabs-tab-arrow-show {
+            border-left: 1px solid #ddd;
+        }
+    }
+
+    .Tab_Controller_btn {
+        border-left: 1px solid #ddd;
+        border-right: 1px solid #ddd;
+        cursor: pointer;
+        .btn {
+            padding: 0 10px;
+        }
+    }
+}

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<!--[if IE 9]>          
+	<html lang="zh" class="ie9 no-js">   
+<![endif]-->
+<!--[if gt IE 9]><!-->
+<html lang="zh" class="no-js">
+    <!--<![endif]-->
+
+    <head>
+        <title>一瓢饮</title>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="renderer" content="webkit" />
+        <meta name="force-rendering" content="webkit" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge" />
+        <meta
+            name="viewport"
+            content="width=device-width,user-scalable=no,initial-scale=1,minimum-scale=1,maximum-scale=1"
+        />
+        <meta name="full-screen" content="yes" />
+        <meta
+            name="format-detection"
+            content="telephone=no;address=no;email=no;"
+        />
+        <meta http-equiv="cleartype" content="on" />
+        <!--[if IE 9]>
+            <script type="text/javascript" src="/assets/js/ie9.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+        <!-- 主题 -->
+        <link rel="stylesheet/less" type="text/css" href="./color.less" />
+        <script>
+            window.less = {
+                async: false,
+                env: "production"
+            };
+        </script>
+        <script type="text/javascript" src="./assets/js/less.min.js"></script>
+        <div id="root" style="height: 100%"></div>
+        <div
+            id="scrollDiv"
+            style="overflow: scroll;width: 100%;height: 100%;position: absolute;top: -9999px;z-index: -9999;"
+        ></div>
+        <script type="text/javascript">
+            //解决 IE8、IE9 不支持 console 问题
+            window.console =
+                window.console ||
+                (function() {
+                    var c = {};
+                    c.log = c.warn = c.debug = c.info = c.error = c.time = c.dir = c.profile = c.clear = c.exception = c.trace = c.assert = function() {};
+                    return c;
+                })();
+
+            // location.origin在ie中的兼容性处理
+            if (!window.location.origin) {
+                window.location.origin =
+                    window.location.protocol +
+                    "//" +
+                    window.location.hostname +
+                    (window.location.port ? ":" + window.location.port : "");
+            }
+
+            document.body.addEventListener("touchstart", function() {});
+        </script>
+    </body>
+</html>
